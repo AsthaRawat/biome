@@ -1,4 +1,18 @@
+###About
 
+To identify rules within the biome, all regulations are housed within the 'src/rules'.
+
+For instance
+
+{/* Rule: noAccessKey */}
+<a href="https://webaim.org/" accessKey="w">
+  WebAIM.org
+</a>
+
+Here, the commented code represents the rule, while the code below exemplifies it.
+
+
+###Biome
 
 **Biome** is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.
 
