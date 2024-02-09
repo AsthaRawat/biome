@@ -74,6 +74,8 @@ Read more about our [project philosophy][biome-philosophy].
 
 **Biome** is [MIT licensed](https://github.com/biomejs/biome/tree/main/LICENSE-MIT) or [Apache 2.0 licensed](https://github.com/biomejs/biome/tree/main/LICENSE-APACHE) and moderated under the [Contributor Covenant Code of Conduct](https://github.com/biomejs/biome/tree/main/CODE_OF_CONDUCT.md).
 
+## Biome Rules
+
 <p align="center">
     <picture>
         <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.46.36 AM.png" width="700">
