@@ -55,8 +55,8 @@ If you want to give Biome a run without installing it, use the [online playgroun
 
 ## Documentation
 
-Check out our [homepage][biomejs] to learn more about Biome,
-or directly head to the [Getting Started guide][getting-started] to start using Biome.
+Check out "https://biomejs.dev/" to learn more about Biome,
+or directly head to the "https://biomejs.dev/guides/getting-started/" to start using Biome.
 
 ## More about Biome
 
@@ -298,7 +298,7 @@ Rules that detect code that is likely to be incorrect or useless.
 | [useValidTypeof](/linter/rules/use-valid-typeof) | This rule verifies the result of <code>typeof $expr</code> unary expressions is being compared to valid values, either string literals containing valid type names or other <code>typeof</code> expressions | <span aria-label="Recommended" role="img" title="Recommended">✅ </span><span aria-label="The rule has an unsafe fix" role="img" title="The rule has an unsafe fix">⚠️ </span> |
 
 ## Nursery
-
+** Unfortunately, due to biome not functioning properly, the options useSortedClasses and noSkippedTest were not included as intended.** 
 New rules that are still under development.
 
 Nursery rules require explicit opt-in via configuration on stable versions because they may still have bugs or performance problems.
