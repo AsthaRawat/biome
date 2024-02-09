@@ -22,11 +22,7 @@
 
 </div>
 
-<div align="center">
 
-English | [简体中文](https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/README.zh-CN.md) | [日本語](https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/README.ja.md) | [Português do Brasil](https://github.com/biomejs/biome/blob/main/packages/%40biomejs/biome/README.pt-br.md)
-
-</div>
 
 **Biome** is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.
 
