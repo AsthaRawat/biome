@@ -2,12 +2,14 @@
 
 To identify rules within the biome, all regulations are housed within the 'src/rules'.
 
-For instance
+For instance:
 
-{/* Rule: noAccessKey */}
+<!-- Rule: noAccessKey -->
+```jsx
 <a href="https://webaim.org/" accessKey="w">
   WebAIM.org
 </a>
+```
 
 Here, the commented code represents the rule, while the code below exemplifies it.
 
