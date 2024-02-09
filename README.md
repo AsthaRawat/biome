@@ -4,7 +4,7 @@ Biome’s linter statically analyzes your code to catch common errors and to hel
 
 When the linter is enabled, it recommends a number of rules.
 
-When using Biome with for example Visual Studio Code, errors defined in the `src/rules` folder will be detected. For instance, the following code snippet will trigger an error:
+When using Biome with, for example Visual Studio Code, errors defined in `src/rules` folder of this repository will be detected. For instance, the following code snippet will trigger an error:
 For instance:
 
 ```jsx
