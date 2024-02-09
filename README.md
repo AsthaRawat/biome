@@ -6,7 +6,7 @@ For instance:
 
 
 ```jsx
-<!-- Rule: noAccessKey -->
+//noAccessKey
 <a href="https://webaim.org/" accessKey="w">
   WebAIM.org
 </a>
