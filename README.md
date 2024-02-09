@@ -55,8 +55,8 @@ If you want to give Biome a run without installing it, use the [online playgroun
 
 ## Documentation
 
-Check out "https://biomejs.dev/" to learn more about Biome,
-or directly head to the "https://biomejs.dev/guides/getting-started/" to start using Biome.
+Check out https://biomejs.dev/ to learn more about Biome,
+or directly head to the https://biomejs.dev/guides/getting-started/ to start using Biome.
 
 ## More about Biome
 
