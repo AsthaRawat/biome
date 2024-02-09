@@ -1,22 +1,3 @@
-### Linter
-
-Biome’s linter statically analyzes your code to catch common errors and to help writing idiomatic code.
-
-When the linter is enabled, it recommends a number of rules.
-
-When using Biome with, for example Visual Studio Code, errors defined in `src/rules` folder of this repository will be detected. For instance, the following code snippet will trigger an error:
-For instance:
-
-```jsx
-//noAccessKey
-<a href="https://webaim.org/" accessKey="w">
-  WebAIM.org
-</a>
-```
-
-Here, the commented code represents the rule, while the code below exemplifies it.
-
-In this example, the use of the accessKey attribute violates the noAccessKey rule defined in the Biome configuration.
 
 ### Biome
 
@@ -74,6 +55,26 @@ or directly head to the https://biomejs.dev/guides/getting-started/ to start usi
 Read more about our [project philosophy][biome-philosophy].
 
 **Biome** is [MIT licensed](https://github.com/biomejs/biome/tree/main/LICENSE-MIT) or [Apache 2.0 licensed](https://github.com/biomejs/biome/tree/main/LICENSE-APACHE) and moderated under the [Contributor Covenant Code of Conduct](https://github.com/biomejs/biome/tree/main/CODE_OF_CONDUCT.md).
+
+### Linter
+
+Biome’s linter statically analyzes your code to catch common errors and to help writing idiomatic code.
+
+When the linter is enabled, it recommends a number of rules.
+
+When using Biome with, for example Visual Studio Code, errors defined in `src/rules` folder of this repository will be detected. For instance, the following code snippet will trigger an error:
+For instance:
+
+```jsx
+//noAccessKey
+<a href="https://webaim.org/" accessKey="w">
+  WebAIM.org
+</a>
+```
+
+Here, the commented code represents the rule, while the code below exemplifies it.
+
+In this example, the use of the accessKey attribute violates the noAccessKey rule defined in the Biome configuration.
 
 ## Biome Rules
 ---
