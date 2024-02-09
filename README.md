@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 [![Discord chat][discord-badge]][discord-url]
@@ -19,10 +17,7 @@
 [open-vsx-badge]: https://badgen.net/open-vsx/version/biomejs/biome?label=open-vsx&color=green
 [open-vsx-url]: https://open-vsx.org/extension/biomejs/biome
 
-
 </div>
-
-
 
 **Biome** is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.
 
@@ -79,3 +74,35 @@ Read more about our [project philosophy][biome-philosophy].
 
 **Biome** is [MIT licensed](https://github.com/biomejs/biome/tree/main/LICENSE-MIT) or [Apache 2.0 licensed](https://github.com/biomejs/biome/tree/main/LICENSE-APACHE) and moderated under the [Contributor Covenant Code of Conduct](https://github.com/biomejs/biome/tree/main/CODE_OF_CONDUCT.md).
 
+    <picture>
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.46.36 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.46.53 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.47.07 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.47.21 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.47.43 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.07 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.17 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.27 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.36 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.49 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.48.59 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.49.12 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.49.28 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.49.38 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.49.49 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.51.46 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.53.10 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.56.35 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.56.45 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.56.57 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.57.06 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.57.17 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.57.32 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.57.48 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.58.19 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.58.53 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.59.07 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.59.24 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 11.59.37 AM.png" width="700">
+        <img alt="Rules" src="./assets/Screenshot 2024-02-09 at 12.00.07 PM.png" width="700">
+    </picture>
