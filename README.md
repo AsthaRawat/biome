@@ -4,8 +4,9 @@ To identify rules within the biome, all regulations are housed within the 'src/r
 
 For instance:
 
-<!-- Rule: noAccessKey -->
+
 ```jsx
+<!-- Rule: noAccessKey -->
 <a href="https://webaim.org/" accessKey="w">
   WebAIM.org
 </a>
