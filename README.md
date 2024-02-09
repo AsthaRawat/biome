@@ -1,23 +1,4 @@
-<div align="center">
 
-[![Discord chat][discord-badge]][discord-url]
-[![CI on main][ci-badge]][ci-url]
-[![npm version][npm-badge]][npm-url]
-[![VSCode version][vscode-badge]][vscode-url]
-[![Open VSX version][open-vsx-badge]][open-vsx-url]
-
-[discord-badge]: https://badgen.net/discord/online-members/BypW39g6Yc?icon=discord&label=discord&color=green
-[discord-url]: https://discord.gg/BypW39g6Yc
-[ci-badge]: https://github.com/biomejs/biome/actions/workflows/main.yml/badge.svg
-[ci-url]: https://github.com/biomejs/biome/actions/workflows/main.yml
-[npm-badge]: https://badgen.net/npm/v/@biomejs/biome?icon=npm&color=green&label=%40biomejs%2Fbiome
-[npm-url]: https://www.npmjs.com/package/@biomejs/biome/v/latest
-[vscode-badge]: https://badgen.net/vs-marketplace/v/biomejs.biome?label=vscode&icon=visualstudio&color=green
-[vscode-url]: https://marketplace.visualstudio.com/items?itemName=biomejs.biome
-[open-vsx-badge]: https://badgen.net/open-vsx/version/biomejs/biome?label=open-vsx&color=green
-[open-vsx-url]: https://open-vsx.org/extension/biomejs/biome
-
-</div>
 
 **Biome** is a performant toolchain for web projects, it aims to provide developer tools to maintain the health of said projects.
 
@@ -299,6 +280,7 @@ Rules that detect code that is likely to be incorrect or useless.
 
 ## Nursery
 ** Unfortunately, due to biome not functioning properly, the options useSortedClasses and noSkippedTest were not included as intended.** 
+
 New rules that are still under development.
 
 Nursery rules require explicit opt-in via configuration on stable versions because they may still have bugs or performance problems.
