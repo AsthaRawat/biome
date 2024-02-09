@@ -1,9 +1,11 @@
-### About
+### Linter
 
-To identify rules within the biome, all regulations are housed within the 'src/rules'.
+Biome’s linter statically analyzes your code to catch common errors and to help writing idiomatic code.
 
+When the linter is enabled, it recommends a number of rules.
+
+When using Biome with for example Visual Studio Code, errors defined in the `src/rules` folder will be detected. For instance, the following code snippet will trigger an error:
 For instance:
-
 
 ```jsx
 //noAccessKey
@@ -14,6 +16,7 @@ For instance:
 
 Here, the commented code represents the rule, while the code below exemplifies it.
 
+In this example, the use of the accessKey attribute violates the noAccessKey rule defined in the Biome configuration.
 
 ### Biome
 
